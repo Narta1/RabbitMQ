@@ -11,6 +11,7 @@ public class PingPong {
 
     public static void main(String[] argv) throws Exception {
         String role=argv[0];
+        //int myID = Integer.parseInt(argv[0]);
         
         ConnectionFactory factory = new ConnectionFactory();
         factory.setHost("localhost");

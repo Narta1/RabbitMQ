@@ -3,7 +3,7 @@ JAVAC=javac
 JAVA=java
 
 # Source directory
-SRC_DIR=tutorial1
+SRC_DIR=tutorial4
 
 # JAR dependencies
 JARS=lib/amqp-client-5.20.0.jar:slf4j-api-1.7.36.jar:slf4j-simple-1.7.36.jar
